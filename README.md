@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name's Aaron, and I write things for GitHub. 
+My name's Aaron, and I write things for Arize AI. I used to work at GitHub, and before that I worked at a number of different startups (and one big company too for a spell). 
 
 - 🗺️ I live in Austin, TX
 - 🥯 I grew up in New Jersey (but most of my family lives abroad these days in the UK and Belgium) 
